@@ -10,3 +10,4 @@ Tujuan dari descriptive statistics adalah untuk **menyajikan data dengan cara ya
 
 1. [Measures of Central Tendency](Module%201.1.ipynb)
 2. [Measures of Variability](Module%201.2.ipynb)
+3. [Percentiles and Quartiles](Module%201.3.ipynb)

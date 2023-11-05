@@ -19,7 +19,7 @@ Let's learn statistics and probability!
 1. [Module 1. Descriptive Statistics](module-1)
     * Measures of Central Tendency (Mean, Median, Mode)
     * Measures of Variability (Range, Variance, Standard Deviation)
-    <!-- * Percentiles and Quartiles -->
+    * Percentiles and Quartiles
     <!-- * Skewness and Kurtosis -->
 2. [Module 2. Probability](module-2)
     <!-- * Probability Definitions and Notation
@@ -58,21 +58,21 @@ Let's learn statistics and probability!
     <!-- * Mann-Whitney U Test
     * Wilcoxon Signed-Rank Test
     * Kruskal-Wallis Test -->
-11. Time Series Analysis
+11. Module 11. Time Series Analysis
     <!-- * Autocorrelation and Partial Autocorrelation
     * ARIMA Models
     * Exponential Smoothing -->
-12. Bayesian Statistics
+12. Module 12. Bayesian Statistics
     <!-- * Bayesian Inference
     * Prior and Posterior Distributions
     * Markov Chain Monte Carlo (MCMC) methods -->
-13. Data Visualization
+13. Module 13. Data Visualization
     <!-- * Histograms, Box Plots, Scatter Plots
     * Probability Plots, Q-Q Plots -->
-14. Statistical Tests for Relationships
+14. Module 14. Statistical Tests for Relationships
     <!-- * Pearson Correlation Coefficient
     * Chi-Square Test for Independence
     * Analysis of Variance (ANOVA) -->
 
 ---
-Created by mocatfrio .cat.
+Created by mocatfrio :cat:
